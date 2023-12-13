@@ -55,4 +55,4 @@ let handleArray = function(showArray){
     }
 }
 
-handleArray(Array);
+handleArray(array);

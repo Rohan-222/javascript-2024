@@ -8,7 +8,7 @@ console.log(addNumbers(2,3));
 
 
 //another way of writing functions
-
+// Function Expression
 let addd = function(n1,n2){
     return (n1+n2);
     //****** invalid********
